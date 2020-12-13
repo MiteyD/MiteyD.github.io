@@ -4,7 +4,7 @@ date: 2020-11-09
 tags: [data wrangling, data science, messy data]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Reinforcement Learning, AI, Machine Learning, Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
 
