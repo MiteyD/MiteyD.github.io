@@ -37,7 +37,7 @@ Tools:
 - Caret
 - Pytorch
 
-Yes, I'm also an Electrical and Electronic Engineering student thus I am well conversant with the C programming language, 3D printing and 2D design. I take great pleasure in employing my creative ideas and innovative skills in solving problems pertaining to this field.
+Having also studied Electrical and Electronic Engineering I am well conversant with the C/C++ programming language, 3D printing and 2D design. I take great pleasure in employing my creative ideas and innovative skills in solving problems pertaining to this field.
 
 I love working on projects together, so feel free to reach out for collaboration!
 
