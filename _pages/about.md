@@ -5,7 +5,7 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I am Data Scientist and Analyst with a strong math and engineering background and +2 years of experience in predictive modeling, data processing, machine learning and deep learning. Achievements in actionable recommendation systems, chat-bots, and stock market predictions. Eager to participate in new deep learning challenges and projects.
+Data Scientist and Analyst with a strong math and engineering background and +2 years of experience in predictive modeling, data processing, machine learning and deep learning. Achievements in actionable recommendation systems, chat-bots, and stock market predictions. Eager to participate in new deep learning challenges and projects.
 
 Ready to help with:
 ● Deep Learning
